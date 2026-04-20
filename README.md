@@ -11,7 +11,7 @@ My analytic skill set, commitment to reliability, and passion for Psychology and
 
 ## Education 
 1st year student, Loyola University, Psychology Major
-***
+
 ### Projects
 
 ## Grade Calculator
