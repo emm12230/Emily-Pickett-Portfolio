@@ -27,7 +27,7 @@ Similarly to the grade calculator on Excel, this is also a grade calculator, but
 ![Python Grade Calculator](Images/Week 3 Pt 1 3.png)
 ![Python Grade Calculator](Images/Week 3 Pt 1 4.png)
 
- - Project 2 Report
+ [Python Grade Calculator](https://github.com/LoyolaUnivMD/sp26-cs105-python-week-3-emm12230.git)
 ***
 ## Python Personality test
 For the final project the main goal was to create a personality test in Python. This test is a fun activity to do when you’re just looking for a mindless activity. I used the lessons from Mr. John as well as looking back at other videos from past modules to help me with this project. In order to help me with the questions as well as responses, I utilized the internet as well as some Ai to help guide me through my options. My biggest challenge was the ample amount of code and trying to go through it all to make sure it is functioning properly. It was also a challenge to figure out how the input from the user will impact which personality they will get. In the end I created a working personality test that will give you a different result based on what answers the user chooses. If I were to do this again like in the week 3 project, I would want to simplify the code so it’s easier to read and understand. I also think this personality test would benefit with a more thought out approach to the final results and the ranges that decide the personality.
