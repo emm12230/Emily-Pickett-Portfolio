@@ -22,7 +22,11 @@ For this project I wanted to find a way to organize what will be graded in your 
 ***
 ## Python Gradebook
 Similarly to the grade calculator on Excel, this is also a grade calculator, but instead in Python. I wanted to allow students to put in grade values and in return get the weighted and unweighted grade average. Overall, this project gives more in-depth answers compared to the Excel calculator. Again, I mostly used the lectures from Mr. John as well as the videos in the module. My biggest challenge was trying to remember that every aspect of what I wanted to be produced had to have a certain code associated with it. In Excel, the functions would work more independently whereas is Python you would have to tell the computer that the input was a number and if you didn’t then you wouldn’t get the answer you’re looking for. I was able to create a working grade calculator that gives an in-depth analysis of your grades both weighted and unweighted. If I were to do this over again, I would work on condensing my code so it is more efficient and easier to read.
- - Insert Picture
+![Python Grade Calculator](Images/Week 3 Pt 1 1.png)
+![Python Grade Calculator](Images/Week 3 Pt 1 2.png)
+![Python Grade Calculator](Images/Week 3 Pt 1 3.png)
+![Python Grade Calculator](Images/Week 3 Pt 1 4.png)
+
  - Project 2 Report
 ***
 ## Python Personality test
