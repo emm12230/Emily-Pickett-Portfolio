@@ -1,5 +1,6 @@
 # CS105/6/7/8 Portfolio
 # Emily Pickett
+![Profile Pic](Images/Pic of me cropped.JPG)
 ## Portfolio
 Instagram: [Click here :)](https://www.instagram.com/emilypickett065?igsh=MTU1YTJpMTl2cDFqbg%3D%3D&utm_source=qr)
 ## About Me 
